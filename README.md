@@ -1,4 +1,4 @@
-Hi, I'm Rahul Overoi 👋
+Hi, I'm Amitesh👋
 I'm a high school student from 🇮🇳 
 with a deep passion for tech💻. 
 I focus on cybersecurity, programming, data science, web scraping, and networking. Currently, I'm exploring new projects and learning opportunities in these fields.
